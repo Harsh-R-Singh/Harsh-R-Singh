@@ -1,18 +1,128 @@
-# 💫 About Me:
-Hi, I'm Harsh Raj Singh 👋<br>A passionate developer who loves building interactive web applications and solving real-world problems with code.<br><br>💻 Currently working on full-stack projects using React, JavaScript, and APIs<br><br>🤖 Exploring Computer Vision (OpenCV)<br><br>🎮 Building fun projects like hand-cricket game using gesture detection<br><br>📚 Continuously learning and improving my problem-solving skills<br><br>Featured Projects :-<br><br>🚀 SpaceLaunch Tracker<br>A web app that shows upcoming space launches using APIs with calendar integration.<br><br>🎮 Hand Cricket Game (AI + Web)<br>A gesture-based cricket game using OpenCV and WebSockets.
+<!-- Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Harsh Raj Singh</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Harsh%20Raj%20Singh;Full-Stack%20Developer%20%7C%20AI%20Enthusiast;Building%20Interactive%20Web%20Apps;Exploring%20Computer%20Vision%20%26%20OpenCV&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-raj-singh-8a409524a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshrajsingh246@gmail.com) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsh-R-Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harsh-R-Singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-R-Singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🧑‍💻 I'm a **passionate developer** who loves building **interactive web applications** and solving real-world problems with code.  
+- 💻 Currently working on **full-stack projects** using **React, JavaScript, Node.js, and APIs**.  
+- 🤖 Exploring **Computer Vision (OpenCV)** and **AI-powered applications**.  
+- 🎮 Building fun projects like a **hand-cricket game** using gesture detection.  
+- 📚 Continuously learning and improving my **problem-solving skills**.  
+- 📍 Based in **India**.  
 
----
-[![](https://visitcount.itsvg.in/api?id=Harsh-R-Singh&icon=0&color=0)](https://visitcount.itsvg.in)
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🏏 DigiCric](https://github.com/Harsh-R-Singh/DigiCric) | Digital cricket game with leaderboards & user profiles | JavaScript, React, Node.js |
+| [🚀 SpaceTracker](https://github.com/Harsh-R-Singh/SpaceTracker) | Upcoming space launches tracker with calendar integration | React, APIs |
+| [🤖 A.I Chatbot](https://github.com/Harsh-R-Singh/A.I-Chatbot) | AI-powered chatbot application | Python |
+| [🚗 Car-Scroll](https://github.com/Harsh-R-Singh/Car-Scroll) | Interactive car showcase with scroll animations | HTML, CSS, JS ,GSAP|
+| [🖼️ My-Gallery](https://github.com/Harsh-R-Singh/My-Gallery) | Personal photo gallery web app | HTML, CSS |
+| [🔐 Password Generator](https://github.com/Harsh-R-Singh/Password_Generator) | Secure password generator tool | JavaScript |
+| [📝 Learning-CRUD](https://github.com/Harsh-R-Singh/Learning-CRUD) | Full CRUD operations app | EJS, Node.js |
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+ 
+## 🧠 Languages & Tools
+
+
+<p align="center">
+
+  <!-- Frontend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" title="React"/>
+
+  <!-- Backend -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45" title="Express.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+
+  <!-- Databases -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+
+  <!-- AI / Computer Vision -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/>
+
+  <!-- Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45" title="Postman"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" width="45" title="Vercel"/>
+
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="80">
+        <a href="https://github.com/Harsh-R-Singh" target="_blank">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="mailto:ahmeddabish99@gmail.com" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/harsh-raj-singh-8a409524a/" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" width="80">
+        <a href="https://leetcode.com/u/Harsh_Raj_Singh/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48" height="48" alt="LeetCode"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-R-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-R-Singh&theme=tokyonight&hide_border=true" alt="Harsh's Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-R-Singh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-R-Singh&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harsh-R-Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
